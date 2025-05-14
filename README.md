@@ -1,4 +1,4 @@
-**Español**
+**✨Español✨**
 
 # Conversor de Monedas
 
@@ -14,7 +14,7 @@ Este proyecto fue desarrollado como parte de una prueba para aplicar conocimient
 - ✅ Visualización del historial de los últimos 10 días mediante un gráfico de líneas con **Chart.js**.
 - ✅ Manejo de errores con `try...catch`.
 
-**English**
+**✨English✨**
 
 # Currency Converter
 
